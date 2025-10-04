@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, ReactJS, Laravel**
 
-- 📫 How to reach me **j.bagolor.5238732@umindanao.edu.ph**
+- 📫 How to reach me **jesscabagolor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
