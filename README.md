@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an **Automation Project**
 
-- 🌱 I’m currently learning **Laravel Vue**
+- 🌱 I’m currently learning **Automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaes0103](https://github.com/Jaes0103)
 
