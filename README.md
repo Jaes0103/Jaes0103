@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaes0103&label=Profile%20views&color=0e75b6&style=flat" alt="jaes0103" /> </p>
 
-- 🔭 I’m currently working on **RealEstate Website**
+- 🔭 I’m currently working on **Automation Project**
 
 - 🌱 I’m currently learning **Laravel Vue**
 
