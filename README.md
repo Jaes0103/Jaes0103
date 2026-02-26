@@ -26,10 +26,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaes0103&theme=tokyonight" alt="Jaes0103" />
 </p>
 
-<h3 align="left">Top Languages (by repository):</h3>
+<h3 align="left">Most Used Languages:</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaes0103&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaes0103&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaes0103&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
+</p>
 
 <h3 align="left">3D Contribution Calendar:</h3>
 
