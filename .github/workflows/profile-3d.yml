@@ -17,7 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: |
             {
-              "type": "repo"
+              "type": "normal",
+              "contributionView": "repo"
             }
       - name: Commit & Push
         run: |
