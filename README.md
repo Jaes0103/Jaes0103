@@ -28,7 +28,7 @@
 
 <h3 align="left">Most Used Languages:</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaes0103&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaes0103&theme=github_dark)
 
 <h3 align="left">3D Contribution Calendar:</h3>
 
