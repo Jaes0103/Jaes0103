@@ -20,20 +20,20 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaes0103&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaes0103&theme=github_dark)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaes0103&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaes0103&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaes0103&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaes0103&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaes0103&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaes0103&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
 </p>
 
 <h3 align="left">Contribution Graph:</h3>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=jaes0103&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Jaes0103&theme=github-compact)
 
 <h3 align="left">3D Contribution Calendar:</h3>
 
