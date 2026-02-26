@@ -28,9 +28,7 @@
 
 <h3 align="left">Most Used Languages:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaes0103&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaes0103&theme=github_dark)
 
 <h3 align="left">3D Contribution Calendar:</h3>
 
