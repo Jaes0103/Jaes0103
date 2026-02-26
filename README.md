@@ -22,10 +22,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaes0103&theme=github_dark)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaes0103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaes0103&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaes0103&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaes0103&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaes0103&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaes0103&theme=github_dark)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaes0103&theme=tokyonight" alt="Jaes0103" />
