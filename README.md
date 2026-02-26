@@ -22,18 +22,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaes0103&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaes0103&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaes0103&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaes0103&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaes0103&theme=github_dark)
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaes0103&theme=tokyonight" alt="Jaes0103" />
 </p>
-
-<h3 align="left">Contribution Graph:</h3>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Jaes0103&theme=github-compact)
 
 <h3 align="left">3D Contribution Calendar:</h3>
 
