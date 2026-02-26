@@ -26,6 +26,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaes0103&theme=tokyonight" alt="Jaes0103" />
 </p>
 
+<h3 align="left">Top Languages (by repository):</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaes0103&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaes0103&theme=github_dark)
+
 <h3 align="left">3D Contribution Calendar:</h3>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
