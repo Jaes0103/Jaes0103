@@ -22,18 +22,14 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaes0103&theme=github_dark)
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaes0103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaes0103&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaes0103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Jaes0103)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jaes0103&theme=tokyonight&hide_border=true)](https://github.com/Jaes0103)
-
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaes0103&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jaes0103)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaes0103&theme=tokyonight" alt="Jaes0103" />
+</p>
 
 <h3 align="left">Contribution Graph:</h3>
 
