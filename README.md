@@ -29,6 +29,12 @@ Hotel management system with an interactive Konva.js floor plan builder, real-ti
 A web app to visualize Smart, Globe, and DITO signal coverage across Davao City and the Philippines to help travelers find reliable connectivity.
 **Stack:** JavaScript · Node.js · Express.js · Leaflet.js · EJS
 
+---
+
+### 🤖 [Herokuapp Selenium Automation — Browser & Web Automation Scripts](https://github.com/Jaes0103/herokuapp_selenium_automation)
+A collection of browser and web automation scripts built with Selenium WebDriver and Playwright using Python. These samples demonstrate real-world automation patterns used in professional QA and automation engineering roles.
+**Stack:** Python · Selenium · Playwright
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
