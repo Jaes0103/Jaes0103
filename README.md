@@ -11,6 +11,24 @@
 
 - 📫 How to reach me **jesscabagolor@gmail.com**
 
+## 🚀 Featured Projects
+
+### 🐾 [Bantay Hayop Davao — Animal Rescue & Profiling](https://github.com/Jaes0103/bhd_animal_rescue_and_profiling)
+A full-stack web app for animal welfare management in Davao City — animal profiling, rescue tracking, and audit reporting.
+**Stack:** Django · React.js · PostgreSQL · Django REST Framework
+
+---
+
+### 🏨 [Lodge Core — Hotel, Room & Booking Management](https://github.com/Jaes0103/lodge-core)
+Hotel management system with an interactive Konva.js floor plan builder, real-time room tracking, and full booking management.
+**Stack:** React.js · Konva.js · Node.js · Express.js · PostgreSQL
+
+---
+
+### 📡 [Signal Seeker — Mobile Signal Coverage Visualizer](https://github.com/Jaes0103/signal_seeker)
+A web app to visualize Smart, Globe, and DITO signal coverage across Davao City and the Philippines to help travelers find reliable connectivity.
+**Stack:** JavaScript · Node.js · Express.js · Leaflet.js · EJS
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
