@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaes0103](https://github.com/Jaes0103)
 
-- 💬 Ask me about **Python, JavaScript, C#, Django, Laravel, NextJS, Dotnet, PERN Stack, ReactJS, Flutter, React Native, Selenium, Playwright**
+- 💬 Ask me about **Dotnet, PERN Stack, ReactJS, Flutter, React Native, Selenium, Playwright**
 
 - 📫 How to reach me **jesscabagolor@gmail.com**
 
